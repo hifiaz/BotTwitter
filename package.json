@@ -1,0 +1,19 @@
+{
+  "name": "bottwitter",
+  "version": "1.0.0",
+  "description": "bot twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "HiFiaz",
+  "license": "ISC",
+  "dependencies": {
+    "event": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}
